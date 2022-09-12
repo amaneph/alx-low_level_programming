@@ -1,24 +1,27 @@
 #include <stdio.h>
 
 /**
- * main - starts here
  *
- * Return: returns 0
+ * main - print if the number is postive, zero, or negative
+ *
+ * Return: 0
  */
+
 int main(void)
 {
-	char hex;
+	char c;
 
-	for (hex = '0'; hex = '9'; hex++)
+	for (c = '0'; c <= '9'; c++)
 	{
-		putchar(hex);
+		putchar(c);
 	}
-	
-	for (hex = 'a'; hex = 'f'; hex++)
+
+	for (c = 'a'; c <= 'f'; c++)
 	{
-		putchar(hex);
+		putchar(c);
 	}
-	
+
 	putchar('\n');
+
 	return (0);
 }
