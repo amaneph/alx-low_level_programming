@@ -13,7 +13,7 @@ int main(void)
 	{
 		putchar(ch);
 	}
-	vor (ch = 'A'; ch <= 'Z'; ch++)
+	for (ch = 'A'; ch <= 'Z'; ch++)
 	{
 		putchar(ch);
 	}
