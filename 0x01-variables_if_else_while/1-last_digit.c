@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
  * main - Prints random number to variable   
  *
@@ -17,7 +18,6 @@ int main(void)
 	if (n % 10 > 5)
 	{
 		printf("greater than 5\n");
-
 	}
 	else if (n % 10 == 0)
 	{
