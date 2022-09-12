@@ -3,7 +3,7 @@
 /**
  * main - where the code starts running
  *
- * return: returns 0 after successful completion
+ * Return: returns 0 after successful completion
  */
 
 int main(void) 
