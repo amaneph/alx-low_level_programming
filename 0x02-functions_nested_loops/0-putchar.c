@@ -3,7 +3,7 @@
 /**
  * main - print putchar
  *
- * Return: always 
+ * Return: always
  */
 
 int main(void)
