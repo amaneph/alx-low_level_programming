@@ -38,7 +38,7 @@ char *_memset(char *w, char g, unsigned int h)
 
 	/**
 
-	 * since we are storing a value that will always be greater than 0 
+	 * since we are storing a value that will always be greater than 0
 
          * we just declared an unsigned int
 	 
