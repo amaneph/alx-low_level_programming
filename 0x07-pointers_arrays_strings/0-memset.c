@@ -10,7 +10,7 @@
  *    fill s
  * @h: unsigned int variable
  *    the number of bytes to be filled
- 
+ *
  * Return: A pointer to the filled memory
  *         area @w
 */
